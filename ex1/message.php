@@ -5,7 +5,7 @@ if($langue){
     echo'Hello';
   if($langue=='francais')
     echo 'Bonjour';
-  if($langue=='espagnol'){
+  if($langue=='espagnol')
     echo 'Hola';
-  }
 }
+?>
